@@ -32,7 +32,7 @@
 17. The result will be: [2, 4, 6]. The function will loop through each number in the list, [1,2,3] and call doSomething function on it and push the resul to the newArr.
 19. ```
     1
-    3
     4
+    3
     2
     ```
