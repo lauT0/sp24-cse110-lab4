@@ -1,0 +1,2 @@
+1. The bug was that num1 and num2 are both strings when they are initialized. So when they are added in the function, calculateSum, they are concatenated as strings.
+2. I fixed it by type casting both num1 and num2 as strings, and also fixing the missing semicolons. 
